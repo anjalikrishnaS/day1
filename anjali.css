@@ -1,0 +1,21 @@
+a{
+    color: brown;
+    text-decoration: none;
+}
+#inp1{
+    background-color: blue;
+}
+#inp2{
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#inp3{
+    background-color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.grp1{
+    background-color: yellowgreen;
+    border:2px solid rgb(31, 146, 16); 
+    margin: 5% 30% 2% 20%;               
+    padding: 10px 30px 10px 50px;
+}
